@@ -28,7 +28,7 @@ const Hero = () => (
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
 
         <img
-          src="/cover.png"
+          src="/cover.jpg"
           alt="hero_cover"
           className="w-full rounded-tl-[140px] z-10 relative"
         />
